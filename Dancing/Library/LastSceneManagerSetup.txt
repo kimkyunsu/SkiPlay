@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Assets 1/New Folder/Alplane SKiing/05_StageScene.unity
+  isLoaded: 1
+  isActive: 1
